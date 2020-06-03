@@ -1,0 +1,5 @@
+build/*
+dist/*
+petakita.egg-info/*
+___pycache__/*
+petakita/__pycache__/*
